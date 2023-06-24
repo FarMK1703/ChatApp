@@ -73,6 +73,10 @@ const user_input = ref<string>('')
         @media(max-width:769px) {
             width: 20%;
         }
+
+        @media(max-width:426px){
+            width: 30%;
+        }
     }
 }
 </style>

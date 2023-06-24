@@ -49,7 +49,7 @@ const { toggleDrawer } = useMobileDrawer()
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px 30px 5px 30px;
+  padding: 5px 15px 5px 15px;
 
 
   .header__items {

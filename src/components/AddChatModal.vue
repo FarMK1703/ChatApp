@@ -86,7 +86,14 @@ const createChat = (contact: any) => {
             z-index: 6;
             height: 500px;
         }
+        
 
+
+        @media(max-width:426px){
+            height: 100%;
+            width: 100%;
+            border-radius: 0;
+        }
 
 
         &::-webkit-scrollbar {
