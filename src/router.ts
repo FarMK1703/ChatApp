@@ -1,6 +1,6 @@
 import { createRouter,createWebHistory } from "vue-router";
 import UserEntrancePage from './pages/UserEntrance.vue'
-import MainPage from './pages/Mainpage.vue'
+import MainPage from './pages/MainPage.vue'
 
 
 export default createRouter({

@@ -12,7 +12,7 @@ export const useChatsListStore = defineStore("chatsList", () => {
                       sender?: string;
                   }
               ]
-            | [];
+            |any[];
     }
 
     let id: number = 0;

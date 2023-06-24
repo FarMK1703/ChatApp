@@ -59,7 +59,9 @@ const { toggleDrawer } = useMobileDrawer()
 
   .header__user-nickname {
     span {
-      color: #646cff
+      color: #646cff;
+      margin-right: 20px;
+      
     }
   }
 
